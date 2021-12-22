@@ -1,2 +1,2 @@
 # Homepage-Assignment
-◕ ◞ ◕ This project was made using https://netnet.studio
+Internet Art I (2021): Coding personal digital garden using HTML
